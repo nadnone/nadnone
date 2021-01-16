@@ -1,6 +1,6 @@
 # Hello everyone, i'm Nad' :wave:
 -----------------------------
-## I'm a self learn dev :v:
+## A self learn dev :v:
 
 | Age   |     Speak       | Upper Skill | Discord Contact | Website |
 | ----- | --------------- | ----------- | --------------- | ------- |
