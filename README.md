@@ -4,8 +4,7 @@
 
 | Age   |     Speak       | Upper Skill | Discord Contact |
 | ----- | --------------- | ----------- | --------------- |
-| 24    | Frenxh, English | JavaSCript  | `ThirtySecondPlease#3567` |
-|  | <img src="res\france-svgrepo-com.svg" width="60" height="70">  <img src="res/united-kingdom-svgrepo-com.svg" width="70" height="70"> | <img src="res/javascript-logo-svgrepo-com.svg" width="60" height="60"> | <img src="res\Discord-Logo-Color.svg" width="100" height="100"> |
+| 24    | <img src="res\france-svgrepo-com.svg" width="60" height="70">  <img src="res/united-kingdom-svgrepo-com.svg" width="70" height="70">  |  <img src="res/javascript-logo-svgrepo-com.svg" width="60" height="60">  | `ThirtySecondPlease#3567` |
 -----------------------------------------
 <img src="res\960-720-max.png" width="300" height="280">
 
