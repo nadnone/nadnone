@@ -2,9 +2,9 @@
 -----------------------------
 ## A self learn dev :v:
 
-| Age   |     Speak       | Upper Skill | Discord Contact | Website |
-| ----- | --------------- | ----------- | --------------- | ------- |
-| 24    | [<img src="res\france-svgrepo-com.svg" width="60" height="70">](#)  [<img src="res/united-kingdom-svgrepo-com.svg" width="70" height="70">](#)  |  [<img src="res/javascript-logo-svgrepo-com.svg" width="60" height="60">](#stats)  | `ThirtySecondPlease#3567` | [ <img src="https://nadirfelder.com/portfolio/res/logo_nf.png" width="60" height="60"> ](https://nadirfelder.com/) |
+| Age   |     Speak       | Upper Skill | Website |
+| ----- | --------------- | ----------- | ------- |
+| 24    | [<img src="res\france-svgrepo-com.svg" width="60" height="70">](#)  [<img src="res/united-kingdom-svgrepo-com.svg" width="70" height="70">](#)  |  [<img src="res/javascript-logo-svgrepo-com.svg" width="60" height="60">](#stats)  | [ <img src="https://nadirfelder.com/portfolio/res/logo_nf.png" width="60" height="60"> ](https://nadirfelder.com/) |
 -----------------------------------------
 [<img src="res\960-720-max.png" width="400" height="280">](#)
 
