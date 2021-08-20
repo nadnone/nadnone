@@ -18,5 +18,5 @@
 ---------------------------
 
 # Last Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spoutnik911&repo=learn_opengl450&theme=algolia&hide_border=true)](https://github.com/spoutnik911/learn_opengl450)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spoutnik911&repo=Satellite_movement_kepler&theme=algolia&hide_border=true)](https://github.com/spoutnik911/Satellite_movement_kepler)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spoutnik911&repo=affichage_numerique_web&theme=algolia&hide_border=true)](https://github.com/spoutnik911/affichage_numerique_web)
