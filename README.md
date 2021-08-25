@@ -1,22 +1,17 @@
-# Hello everyone, i'm Nad' :wave:
------------------------------
-## A self learn dev :v:
+<h1 align="center">Hi 👋, I'm Nad</h1>
+<h3 align="center">A self learn Dev</h3>
 
-| Age   |     Speak       | Upper Skill | Discord Contact | Website |
-| ----- | --------------- | ----------- | --------------- | ------- |
-| 24    | [<img src="res\france-svgrepo-com.svg" width="60" height="70">](#)  [<img src="res/united-kingdom-svgrepo-com.svg" width="70" height="70">](#)  |  [<img src="res/javascript-logo-svgrepo-com.svg" width="60" height="60">](#stats)  | `ThirtySecondPlease#3567` | [ <img src="https://nadirfelder.com/portfolio/res/logo_nf.png" width="60" height="60"> ](https://nadirfelder.com/) |
------------------------------------------
-[<img src="res\960-720-max.png" width="400" height="280">](#)
+- 🔭 I’m currently working on [learn_opengl450](https://github.com/spoutnik911/learn_opengl450)
 
------------------------------
+- 🙃 Know more about me [https://nadnone.ch/](https://nadnone.ch/)
 
-# Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=spoutnik911&theme=algolia&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spoutnik911&theme=algolia&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spoutnik911&show_icons=true&locale=fr&layout=compact" alt="spoutnik911" /></p>
 
----------------------------
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spoutnik911&show_icons=true&locale=en" alt="spoutnik911" /></p>
 
-# Last Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spoutnik911&repo=Satellite_movement_kepler&theme=algolia&hide_border=true)](https://github.com/spoutnik911/Satellite_movement_kepler)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spoutnik911&repo=affichage_numerique_web&theme=algolia&hide_border=true)](https://github.com/spoutnik911/affichage_numerique_web)
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=spoutnik911" alt="spoutnik911" /></p>
+
+<p><img align="center" src="res\960-720-max.png" width="400" height="280"/></p>
