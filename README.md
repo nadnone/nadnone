@@ -5,5 +5,3 @@
 __Lao Tseu__
 
 [learn_opengl450](https://github.com/nadnone/learn_opengl450) - Status: On Break
-
-[EducationLibre](https://github.com/nadnone/EducationLibre) - Status: On Wait..
