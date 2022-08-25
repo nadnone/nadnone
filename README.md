@@ -21,12 +21,14 @@ init:
 }%%
 
 pie showData
-    title Goal check
-    "Must learn": 54.0
-    "Should enhance": 9.0
-    "Must check": 13.0
-    "Should be Ok": 24.0
+    title Goal Check
+    "Must learn": 54.3
+    "Should enhance": 7.1
+    "Must check": 14.3
+    "Should be Ok": 24.3
 
 
 ```
-[Graphic data source](./res/Bilan%20dev%20backend.pdf) from [roadmap.sh](https://roadmap.sh/backend)
+[Google doc data source](https://docs.google.com/spreadsheets/d/1j2XY_vpv0M_gYIrJ4xeTp9vO3Vr90mrW/edit?usp=sharing&ouid=117876886799053011461&rtpof=true&sd=true) taked from [roadmap.sh](https://roadmap.sh/backend) 
+
+##### _(This pie graph is not necessary the last version of the Google dococument)_
