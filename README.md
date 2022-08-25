@@ -22,11 +22,11 @@ init:
 
 pie showData
     title Goal check
-    "Must learn": 55.0
-    "Should enhance": 11.0
-    "Must check": 10.0
-    "Should be Ok": 24.0
+    "Must learn": 54.0
+    "Should enhance": 8.0
+    "Must check": 11.0
+    "Should be Ok": 27.0
 
 
 ```
-[Graphic's source](./res/Bilan%20dev%20backend.pdf) from [roadmap.sh](https://roadmap.sh/backend)
+[Graphic data source](./res/Bilan%20dev%20backend.pdf) from [roadmap.sh](https://roadmap.sh/backend)
