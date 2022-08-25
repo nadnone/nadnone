@@ -23,9 +23,9 @@ init:
 pie showData
     title Goal check
     "Must learn": 54.0
-    "Should enhance": 8.0
-    "Must check": 11.0
-    "Should be Ok": 27.0
+    "Should enhance": 9.0
+    "Must check": 13.0
+    "Should be Ok": 24.0
 
 
 ```
