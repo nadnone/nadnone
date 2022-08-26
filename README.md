@@ -9,13 +9,13 @@
 %%{
 init: 
     {
-    "theme": "base",
+    "theme": "black",
     "themeVariables": 
         {   
             "pie1": "#e74c3c",
             "pie2": "#f1c40f",
             "pie3": "#2980b9",
-            "pie4": "#27ae60"
+            "pie4": "#27ae60",
             "pie5": "#95a5a6"
         }
     }
