@@ -9,7 +9,7 @@
 %%{
 init: 
     {
-    "theme": "black",
+    "theme": "base",
     "themeVariables": 
         {   
             "pie1": "#e74c3c",
