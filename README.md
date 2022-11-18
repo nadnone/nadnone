@@ -3,3 +3,4 @@
 
 ---------------------
 ---------------------
+<img align="center" alt="top 4 languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadnone&langs_count=4&layout=compact"/>
